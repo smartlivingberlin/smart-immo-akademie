@@ -22,7 +22,7 @@
     <div class="col-md-7">
       <h1 class="display-6">Praxisnahe Weiterbildung für Immobilienprofis</h1>
       <p class="lead">Recht, Bewertung, Maklerpraxis und Finanzierung – strukturiert, verständlich und interaktiv.</p>
-      <div class="d-flex gap-2 align-items-center"><span class="badge bg-white text-primary badge-azav me-2">Förderfähig nach Prüfung (AZAV)</span>
+      <div class="d-flex gap-2">
         <a class="btn btn-primary" href="pages/lehrplan.html">Lehrplan ansehen</a>
         <a class="btn btn-outline-primary" href="pages/kurse.html">Kurse entdecken</a>
       </div>
@@ -32,24 +32,13 @@
     </div>
   </div>
 </section>
-<section id="story" class="mt-4">
-  <div class="p-4 bg-white rounded-3 shadow-sm">
-    <h2 class="h4 mb-2">Warum diese Akademie?</h2>
-    <p>Immobilien sind mehr als Zahlen – sie sind Lebensräume und Kapitalanlagen. Wer erfolgreich sein will, braucht fundiertes Wissen in <strong>Recht, Bewertung, Finanzierung und Praxis</strong>. Genau das vermittelt die Smart Immo Akademie: <em>praxisnah, klar und sofort anwendbar</em>.</p>
-    <ul class="mb-0 text-muted">
-      <li>Strukturierter Lehrplan (Module 1–5) mit verständlichen Texten und Stichpunkten</li>
-      <li>Praxisübungen, Mini-Rechenbeispiele und Vorlagen</li>
-      <li>Später erweiterbar um echten KI-Studienberater</li>
-    </ul>
-  </div>
-</section>
 <section class="mt-4"><h2 class="h4 mb-3">Module (Auszug)</h2><div id="moduleGrid" class="row g-3"></div></section>
 <section class="mt-4"><h2 class="h4 mb-3">Schnellzugriff</h2>
   <div class="d-flex flex-wrap gap-2">
     <a class="btn btn-outline-secondary" href="pages/faq.html"><i class="bi bi-question-circle"></i> Häufige Fragen</a>
     <a class="btn btn-outline-secondary" href="pages/kontakt.html"><i class="bi bi-envelope"></i> Kontakt</a>
   </div></section>
-<section class="mt-5"><h2 class="h4 mb-3">Virtueller Studienberater (Demo)</h2>
+<section class="mt-5"><h2 class="h4 mb-3">Assistent (lokal)</h2>
   <div class="card"><div class="card-body">
     <div id="chatLog" class="small mb-2 border rounded p-2 bg-light" style="height:180px;overflow:auto;"></div>
     <div class="input-group"><input id="chatInput" class="form-control" placeholder="Frage zum Lehrplan (Demo-Chat)">

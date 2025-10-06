@@ -2,7 +2,7 @@ async function getJSON(u){ try{ const r=await fetch(u,{cache:'no-store'}); if(!r
 function el(html){ const t=document.createElement('template'); t.innerHTML=html.trim(); return t.content.firstChild; }
 async function loadModules(){
   const data = await getJSON('data/lehrplan.json'); const grid = document.querySelector('#moduleGrid'); if(!data||!grid) return;
-  data.modules.forEach(m=>{
+  data.modules.slice(0,4).forEach(m=>{
     const c = el(`<div class="col-md-6 col-lg-3"><div class="card h-100 card-hover"><div class="card-body">
       <h3 class="h6">${m.title}</h3><div class="text-muted small mb-2">${m.days} Tage · ${m.ue} UE</div>
       <a class="btn btn-sm btn-outline-primary" href="pages/lehrplan.html#mod-${m.id}">Details</a>

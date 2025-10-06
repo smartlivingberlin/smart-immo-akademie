@@ -22,7 +22,7 @@
     <div class="col-md-7">
       <h1 class="display-6">Praxisnahe Weiterbildung für Immobilienprofis</h1>
       <p class="lead">Recht, Bewertung, Maklerpraxis und Finanzierung – strukturiert, verständlich und interaktiv.</p>
-      <div class="d-flex gap-2 align-items-center"><span class="badge bg-white text-primary badge-azav me-2">Förderfähig nach Prüfung (AZAV)</span>
+      <div class="d-flex gap-2">
         <a class="btn btn-primary" href="pages/lehrplan.html">Lehrplan ansehen</a>
         <a class="btn btn-outline-primary" href="pages/kurse.html">Kurse entdecken</a>
       </div>
