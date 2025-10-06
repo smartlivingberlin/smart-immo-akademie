@@ -1,0 +1,109 @@
+{
+  "modules": [
+    {
+      "id": 1,
+      "title": "Fachkenntnisse und Rechtsgrundlage",
+      "days": 20,
+      "ue": 160,
+      "sections": [
+        {"title":"Einführung in die Immobilienbranche, Struktur & Trends","ue":8,"topics":["Karrierepfade, Eignung & Kompetenzen"]},
+        {"title":"Eignungs-Tests","ue":8,"topics":["Selbstchecks, Rollenverständnis"]},
+        {"title":"Rechtsgrundlagen der Immobilienbranche","ue":32,"topics":["§34c GewO","Maklerrecht","GWG","WEG","BGB-Mietrecht","DSGVO","Verbraucherschutz"]},
+        {"title":"Berufsfelder: Makler","ue":16,"topics":["Aufgaben","Verantwortung"]},
+        {"title":"Berufsfelder: Verwalter","ue":16,"topics":["Aufgaben","Verantwortung"]},
+        {"title":"Berufsfelder: Gutachter","ue":16,"topics":["Aufgaben","Verantwortung"]},
+        {"title":"Berufsfelder: Darlehensvermittler","ue":16,"topics":["Aufgaben","Verantwortung"]},
+        {"title":"Arbeitsalltag, Zeitmanagement & Organisation","ue":16,"topics":["Tools für den Alltag"]},
+        {"title":"Digitale Tools & Automatisierung","ue":16,"topics":["Prozessdigitalisierung"]},
+        {"title":"Karriereplanung & Bildung (DEKRA/IHK)","ue":16,"topics":["Portfolio, Lebenslauf, Anschreiben"]}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Makler Basis nach §34c GewO (ohne IHK-Prüfung)",
+      "days": 60,
+      "ue": 480,
+      "sections": [
+        {"title":"Vertiefung rechtlicher Grundlagen des Maklerberufs","ue":16,"topics":["§34c GewO","Maklerrecht","GWG","DSGVO","Verbraucherschutz","Ethik","Praxisfehler"]},
+        {"title":"Standort & Marktaufbau","ue":8,"topics":["Regionale Unterschiede","Trends"]},
+        {"title":"Marktanalyse & digitale Tools","ue":8,"topics":["Tool-Einführung","Fallstudien"]},
+        {"title":"Immobilienarten & Besonderheiten","ue":16,"topics":["Wohnen","Gewerbe","Spezial","Neubau","Luxus","Ferienimmobilien","Grundstücke","Off-Market","International"]},
+        {"title":"Kundenakquise (klassisch)","ue":8,"topics":["Netzwerke","Empfehlungen"]},
+        {"title":"Kundenakquise (digital)","ue":8,"topics":["Leads","Social Media"]},
+        {"title":"Maklerverträge & Vertragstypen","ue":8,"topics":["rechtliche Besonderheiten"]},
+        {"title":"GWG/KYC & Verantwortung","ue":8,"topics":["Identprüfung","Dokumentation"]},
+        {"title":"Bewertung: Grundlagen & Verfahren","ue":16,"topics":["Vergleich","Ertrag","Sachwert","Praxisbeispiel"]},
+        {"title":"Unterlagenbeschaffung & Besonderheiten","ue":48,"topics":["Grundbuch","Teilungserklärung","ETV-Protokolle","Energieausweis","WP/Abrechnung","Denkmal/Milieuschutz/Sanierung"]},
+        {"title":"Objekt-/Unterlagenanalyse (Praxis)","ue":16,"topics":["Analyse einer Beispiel-Immobilie"]},
+        {"title":"Objektvorbereitung & Home Staging","ue":16,"topics":["Schwachstellenanalyse","Aufwertung","digital/real"]},
+        {"title":"Zielgruppen & Kampagnen","ue":16,"topics":["Strategien","Ansprache","Werbematerial"]},
+        {"title":"Exposé – Struktur, Design, Inhalt","ue":16,"topics":["Fotos/Video","360°-Tour pro/contra","Beispielanalyse"]},
+        {"title":"Exposé erstellen (Praxis)","ue":8,"topics":["Datenbasis → Exposé"]},
+        {"title":"Inserate – Plattformen & Optimierung","ue":16,"topics":["Portalauswahl","Inhalte"]},
+        {"title":"Inserat erstellen (Praxis)","ue":8,"topics":["Datenbasis → Inserat"]},
+        {"title":"Digitale Tools für Makler (CRM, Bewertungssoftware, DSGVO)","ue":16,"topics":["Workflows","Daten"]},
+        {"title":"Besichtigungen & Einwandbehandlung","ue":16,"topics":["Planung","Durchführung","Umgang mit Einwänden"]},
+        {"title":"Kapitalanlage & Analyse","ue":64,"topics":["Rendite/Faktor/EK-Rendite","Steuern (allgemein)","Kaufen vs. Mieten"]},
+        {"title":"Besondere Immobilien","ue":32,"topics":["Neubau (MaBV)","Luxus","Off-Market","International"]},
+        {"title":"Karriere, CRM & Risiken","ue":48,"topics":["Konfliktmanagement","Kundenbindung/CRM","Trends (KI/Green)"]}
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Immobilienverwaltung und Facility Management",
+      "days": 80,
+      "ue": 640,
+      "sections": [
+        {"title":"Einführung in die Verwaltung","ue":16,"topics":["WEG-","Miet-","Gewerbeverwaltung","Sonderverwaltung"]},
+        {"title":"Markt- und Branchenanalyse","ue":16,"topics":["Rolle der Verwaltung","Trends & Herausforderungen"]},
+        {"title":"Rechtsgrundlagen der Verwaltung (Überblick)","ue":16,"topics":["BGB","WEG","Mietrecht","Gewerbemietrecht","Datenschutz"]},
+        {"title":"WEG-Grundlagen (Recht)","ue":32,"topics":["Grundbuch","Sondereigentum/Gemeinschaftseigentum","Teilungserklärung","Gemeinschaftsordnung","Verwalterstellung/Haftung","Beirat"]},
+        {"title":"Technische & kaufmännische Grundlagen","ue":16,"topics":["Objektübernahme","Verkehrssicherung","Leistungsvergleich/Steuerung","Marketing/Akquise"]},
+        {"title":"EDV & Geschäftsprozesse","ue":16,"topics":["HV-Software","Organisation","Prozessoptimierung","Tipps Tagesgeschäft"]},
+        {"title":"Mietrecht (Wohnraum) – Grundlagen","ue":48,"topics":["Mietvertrag","Rechte/Pflichten","Nebenkosten","Mieterhöhung (Index/Staffel)","Mietminderung","Kündigung","Modernisierung","Sonderfälle","Streitigkeiten/Mahnwesen"]},
+        {"title":"Praxissimulation: Mietminderung","ue":16,"topics":["Anspruchsprüfung","Berechnung","Schreiben erstellen","Simulation"]},
+        {"title":"Praxissimulation: Mietvertragskündigung","ue":16,"topics":["ordentlich/außerordentlich","Form/Frist","Sonderrechte","Kündigungsschutz","Abwicklung"]},
+        {"title":"Gewerbevermietung (Praxis)","topics":["Zielgruppe/Mietpreis","Exposé","Inserat/Netzwerke","Besichtigung","Bonitätsprüfung/Businessplan","Gewerbemietvertrag","Übergabe/Einweisung","Konfliktprävention"],"ue":16},
+        {"title":"Übergabe/Übernahme & Protokolle","ue":16,"topics":["Ablauf","Dokumentation"]},
+        {"title":"Kommunikation Eigentümer/Mieter","ue":16,"topics":["effizient & nachhaltig"]},
+        {"title":"Ethik & Verantwortung","ue":16,"topics":[]}
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Immobilienbewertung und Gutachtenerstellung",
+      "days": 20,
+      "ue": 160,
+      "sections": [
+        {"title":"Grundlagen der Immobilienbewertung","ue":16,"topics":[]},
+        {"title":"Marktanalyse & Standortbewertung","ue":16,"topics":[]},
+        {"title":"Wertermittlungsverfahren – Grundlagen","ue":16,"topics":[]},
+        {"title":"Vergleichswertverfahren (Detail)","ue":16,"topics":[]},
+        {"title":"Ertragswertverfahren (Detail)","ue":16,"topics":[]},
+        {"title":"Sachwertverfahren (Detail)","ue":16,"topics":[]},
+        {"title":"Gutachtenerstellung – Aufbau & Anforderungen","ue":16,"topics":[]},
+        {"title":"Spezialfälle der Bewertung","ue":16,"topics":[]},
+        {"title":"Digitale Tools & Datenquellen","ue":16,"topics":[]},
+        {"title":"Abschlussprojekt","ue":16,"topics":[]}
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Immobiliendarlehensvermittlung (+ Vorbereitung §34i GewO)",
+      "days": 40,
+      "ue": 320,
+      "sections": [
+        {"title":"Einführung, Recht & Ethik","ue":16,"topics":["typische Anfragen, Rollen, Pflichten"]},
+        {"title":"Kundenberatung & Gesprächsführung","ue":16,"topics":["Ablauf, schwierige Situationen","Rollenspiele"]},
+        {"title":"Verbraucherschutz & Pflichten des Vermittlers","ue":16,"topics":[]},
+        {"title":"Recht rund um den Erwerb","ue":16,"topics":["Grundbuch","Kaufvertrag","Zeitabläufe"]},
+        {"title":"Markt & wirtschaftliche Grundlagen","ue":16,"topics":["Zinsentwicklung","Konjunkturzyklen","Kreditgeber","Preisbildung"]},
+        {"title":"Finanzierungsanlässe & Kreditprodukte","ue":36,"topics":["Eigenheim/Kapitalanlage","Bau/Modernisierung","Anschlussfinanzierung","Zwischenfinanzierung","Annuität/Tilgung/Endfällig/Forward/Bausparen/Cap/Policen"]},
+        {"title":"Konditionen & Förderungen","ue":8,"topics":["effektiver vs. nominaler Zins","Zinsbindung","Sondertilgung","KfW/regionale Programme"]},
+        {"title":"Praxis: Fallanalysen & Finanzierungsplan","ue":8,"topics":["Vergleich, Simulation, Tilgungsplan"]},
+        {"title":"Kreditwürdigkeitsprüfung & Sicherheiten","ue":16,"topics":["Haushaltsrechnung","Schufa/Scoring","Grundpfandrechte","Bürgschaften","Bewertung Sicherheiten"]},
+        {"title":"Prüfungsvorbereitung & Simulation","ue":160,"topics":["Wiederholung, Vertiefung, Probeklausuren"]}
+      ]
+    }
+  ]
+}
