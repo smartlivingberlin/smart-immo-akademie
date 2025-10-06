@@ -7,3 +7,6 @@ h1,h2,h3 { letter-spacing:.2px; }
 .badge-azav { font-weight:600; border:1px solid rgba(13,110,253,.35); }
 .info-azav { border-left:4px solid #0d6efd; background:#f4f8ff; }
 .section-muted { background:#eef6ff; }
+.pill{display:inline-block;padding:.25rem .6rem;border-radius:999px;font-size:.8rem;border:1px solid rgba(0,0,0,.08);background:#fafbfd}
+.step-num{width:36px;height:36px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-weight:700;background:#0d6efd;color:#fff;margin-right:.5rem}
+.feature i{font-size:1.4rem;color:#0d6efd}
