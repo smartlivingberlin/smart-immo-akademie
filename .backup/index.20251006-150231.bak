@@ -108,10 +108,6 @@
     </div></div></div>
   </div>
 </section>
-<section class="mt-4 text-center" id="cta-beratung">
-  <button class="btn btn-lg btn-primary" data-bs-toggle="modal" data-bs-target="#beratungModal">Kostenfreie Kurzberatung</button>
-  <p class="small text-muted mt-2 mb-0">Unverbindlich & kostenlos – wir melden uns zeitnah.</p>
-</section>
 <section id="foerderhinweis" class="mt-4">
   <div class="alert alert-info shadow-sm">
     <i class="bi bi-info-circle-fill"></i>
@@ -171,22 +167,6 @@
     <a href="pages/impressum.html" class="link-secondary">Impressum</a>
     <a href="pages/datenschutz.html" class="link-secondary">Datenschutz</a>
   </div></div></footer>
-<!-- Modal: Kurzberatung -->
-<div class="modal fade" id="beratungModal" tabindex="-1" aria-hidden="true">
- <div class="modal-dialog"><div class="modal-content">
-  <div class="modal-header"><h5 class="modal-title">Kostenfreie Kurzberatung</h5>
-   <button type="button" class="btn-close" data-bs-dismiss="modal"></button></div>
-  <div class="modal-body">
-   <form id="beratungForm">
-    <div class="mb-3"><label class="form-label">Name</label><input name="name" class="form-control" required></div>
-    <div class="mb-3"><label class="form-label">E-Mail</label><input name="email" type="email" class="form-control" required></div>
-    <div class="mb-3"><label class="form-label">Nachricht (optional)</label><textarea name="message" class="form-control" rows="3"></textarea></div>
-    <div class="form-text">Mit dem Absenden stimmen Sie der Verarbeitung gemäß <a href="pages/datenschutz.html" target="_blank">Datenschutz</a> zu.</div>
-    <button class="btn btn-primary mt-2" type="submit">Absenden</button>
-   </form>
-   <div id="beratungOk" class="alert alert-success d-none mt-3">Danke! Wir melden uns bald.</div>
-   <div id="beratungErr" class="alert alert-danger d-none mt-3">Senden nicht möglich. Bitte später erneut versuchen.</div>
-  </div></div></div></div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="assets/js/app.js"></script>
 </body></html>

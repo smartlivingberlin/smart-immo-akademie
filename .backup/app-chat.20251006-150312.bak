@@ -66,39 +66,3 @@ document.addEventListener('DOMContentLoaded', () => {
     }catch(_){ err?.classList.remove('d-none'); }
   });
 });
-const CHAT_API = 'https://DEIN_WORKER.workers.dev/chat';
-
-// --- Echter KI-Chat: sendet Frage an Serverless-Endpoint ---
-async function askLLM(q){
-  if(!q || !window.fetch) return "Keine Eingabe.";
-  try{
-    const res = await fetch(CHAT_API.replace(/\/chat$/,''), { // Worker nimmt Root-POST
-      method:'POST',
-      headers:{'Content-Type':'application/json'},
-      body: JSON.stringify({question:q})
-    });
-    const data = await res.json();
-    return data.answer || "Keine Antwort.";
-  }catch(e){ return "Verbindungsproblem."; }
-}
-
-// UI-Hook: falls Demo-Chat vorhanden, Taste Enter = KI-Call (Beta-Schalter)
-document.addEventListener('DOMContentLoaded', ()=>{
-  const input = document.getElementById('chatInput');
-  const btn = document.getElementById('chatSend');
-  const log = document.getElementById('chatLog');
-  if(!input || !btn || !log) return;
-
-  async function send(){
-    const q = input.value.trim();
-    if(!q) return;
-    log.innerHTML += `<div><strong>Du:</strong> ${q}</div>`;
-    input.value=''; btn.disabled=true;
-    const a = await askLLM(q);
-    log.innerHTML += `<div class="text-muted"><strong>KI:</strong> ${a}</div>`;
-    log.scrollTop = log.scrollHeight;
-    btn.disabled=false;
-  }
-  btn.addEventListener('click', send);
-  input.addEventListener('keydown', (e)=>{ if(e.key==='Enter') send(); });
-});

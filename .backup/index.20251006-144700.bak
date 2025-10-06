@@ -87,44 +87,6 @@
 
   </div>
 </section>
-<section id="vorteile" class="mt-5">
-  <h2 class="h4 mb-3">Deine Vorteile</h2>
-  <div class="row g-3">
-    <div class="col-md-4"><div class="card shadow-sm h-100"><div class="card-body text-center">
-      <i class="bi bi-patch-check-fill text-primary fs-1 mb-2"></i>
-      <h5 class="card-title">100% förderbar</h5>
-      <p class="card-text small">Nach AZAV zertifiziert – <strong>voll förderbar mit Bildungsgutschein</strong> der Agentur für Arbeit/Jobcenter.</p>
-      <ul class="list-unstyled small mb-0"><li>📍 bundesweit</li><li>⚖️ § 81 SGB III</li><li>🕒 Dauer je Modul</li></ul>
-    </div></div></div>
-    <div class="col-md-4"><div class="card shadow-sm h-100"><div class="card-body text-center">
-      <i class="bi bi-mortarboard-fill text-success fs-1 mb-2"></i>
-      <h5 class="card-title">Praxisnah & aktuell</h5>
-      <p class="card-text small">Direkt für die Immobilienbranche – mit Rechts-Updates, Markttrends und Übungen.</p>
-    </div></div></div>
-    <div class="col-md-4"><div class="card shadow-sm h-100"><div class="card-body text-center">
-      <i class="bi bi-laptop text-info fs-1 mb-2"></i>
-      <h5 class="card-title">Flexibel Online & Präsenz</h5>
-      <p class="card-text small">Teilnahme online oder vor Ort – kombinierbar, ideal auch für Quereinsteiger.</p>
-    </div></div></div>
-  </div>
-</section>
-<section class="mt-4 text-center" id="cta-beratung">
-  <button class="btn btn-lg btn-primary" data-bs-toggle="modal" data-bs-target="#beratungModal">Kostenfreie Kurzberatung</button>
-  <p class="small text-muted mt-2 mb-0">Unverbindlich & kostenlos – wir melden uns zeitnah.</p>
-</section>
-<section id="foerderhinweis" class="mt-4">
-  <div class="alert alert-info shadow-sm">
-    <i class="bi bi-info-circle-fill"></i>
-    <strong>Hinweis:</strong> Die Förderung ist an Bedingungen gebunden:
-    <ul class="mb-0 small">
-      <li>✔ Bildungsgutschein vor Kursbeginn bei Agentur für Arbeit/Jobcenter beantragen.</li>
-      <li>✔ Typisch: Arbeitssuchende, von Arbeitslosigkeit bedrohte Personen, Umschüler.</li>
-      <li>✔ AZAV-Zertifizierung sichert Qualität/Prüfbarkeit der Weiterbildung.</li>
-    </ul>
-    <a href="https://www.arbeitsagentur.de/bildung/weiterbildung-mit-bildungsgutschein" target="_blank" class="d-block mt-2">➝ Mehr über den Bildungsgutschein</a>
-    <p class="small text-muted mb-0 mt-2">*Konkrete Bewilligung durch den Kostenträger erforderlich. Angaben ohne Gewähr. Keine Rechtsberatung.</p>
-  </div>
-</section>
 
 <!-- AZAV Hinweis -->
 <section class="mt-4">
@@ -171,22 +133,6 @@
     <a href="pages/impressum.html" class="link-secondary">Impressum</a>
     <a href="pages/datenschutz.html" class="link-secondary">Datenschutz</a>
   </div></div></footer>
-<!-- Modal: Kurzberatung -->
-<div class="modal fade" id="beratungModal" tabindex="-1" aria-hidden="true">
- <div class="modal-dialog"><div class="modal-content">
-  <div class="modal-header"><h5 class="modal-title">Kostenfreie Kurzberatung</h5>
-   <button type="button" class="btn-close" data-bs-dismiss="modal"></button></div>
-  <div class="modal-body">
-   <form id="beratungForm">
-    <div class="mb-3"><label class="form-label">Name</label><input name="name" class="form-control" required></div>
-    <div class="mb-3"><label class="form-label">E-Mail</label><input name="email" type="email" class="form-control" required></div>
-    <div class="mb-3"><label class="form-label">Nachricht (optional)</label><textarea name="message" class="form-control" rows="3"></textarea></div>
-    <div class="form-text">Mit dem Absenden stimmen Sie der Verarbeitung gemäß <a href="pages/datenschutz.html" target="_blank">Datenschutz</a> zu.</div>
-    <button class="btn btn-primary mt-2" type="submit">Absenden</button>
-   </form>
-   <div id="beratungOk" class="alert alert-success d-none mt-3">Danke! Wir melden uns bald.</div>
-   <div id="beratungErr" class="alert alert-danger d-none mt-3">Senden nicht möglich. Bitte später erneut versuchen.</div>
-  </div></div></div></div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="assets/js/app.js"></script>
 </body></html>

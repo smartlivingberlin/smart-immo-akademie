@@ -1,0 +1,334 @@
+{
+  "modules": [
+    {
+      "id": 1,
+      "title": "Fachkenntnisse und Rechtsgrundlage",
+      "days": 20,
+      "ue": 160,
+      "sections": [
+        {
+          "title":"Einführung in die Immobilienbranche, Struktur & Trends",
+          "ue":8,
+          "description":"Du lernst, wie die Immobilienwelt aufgebaut ist und welche Wege es für dich gibt. So findest du dich im Markt zurecht und verstehst aktuelle Entwicklungen.",
+          "topics":["Karrierepfade","Markttrends","Berufsbilder"]
+        },
+        {
+          "title":"Eignungs-Tests",
+          "ue":8,
+          "description":"Mit kleinen Selbstchecks erkennst du Stärken und Schwächen. Dadurch wählst du leichter den Bereich, der wirklich zu dir passt.",
+          "topics":["Selbstchecks","Rollenverständnis"]
+        },
+        {
+          "title":"Rechtsgrundlagen der Immobilienbranche",
+          "ue":32,
+          "description":"Dieser Teil erklärt wichtige Gesetze, die dich im Alltag schützen und leiten. So arbeitest du korrekt und vermeidest typische Fehler.",
+          "topics":["§34c GewO","Maklerrecht","GWG","WEG","BGB-Mietrecht","DSGVO","Verbraucherschutz"]
+        },
+        {
+          "title":"Berufsfelder: Makler",
+          "ue":16,
+          "description":"Du siehst, welche Aufgaben Makler haben – von der Akquise bis zum Abschluss. So bekommst du ein realistisches Bild des Berufs.",
+          "topics":["Aufgaben","Verantwortung"]
+        },
+        {
+          "title":"Berufsfelder: Verwalter",
+          "ue":16,
+          "description":"Du lernst, was Verwaltung im Alltag bedeutet: Organisation, Technik, Finanzen. Ziel ist ein klarer Überblick über Pflichten und Chancen.",
+          "topics":["Aufgaben","Verantwortung"]
+        },
+        {
+          "title":"Berufsfelder: Gutachter",
+          "ue":16,
+          "description":"Hier geht es um Bewertung und Gutachten: Wie entsteht ein gut begründeter Wert? Du lernst den Ablauf und die benötigten Daten.",
+          "topics":["Aufgaben","Verantwortung"]
+        },
+        {
+          "title":"Berufsfelder: Darlehensvermittler",
+          "ue":16,
+          "description":"Du verstehst Rolle und Verantwortung bei Finanzierungen. Das hilft dir, Kunden sicher zu begleiten.",
+          "topics":["Aufgaben","Verantwortung"]
+        },
+        {
+          "title":"Arbeitsalltag, Zeitmanagement & Organisation",
+          "ue":16,
+          "description":"Mit einfachen Methoden arbeitest du ruhiger und schneller. Du lernst, Aufgaben zu planen und gut zu dokumentieren.",
+          "topics":["Zeitmanagement","Organisation","Dokumentation"]
+        },
+        {
+          "title":"Digitale Tools & Automatisierung",
+          "ue":16,
+          "description":"Digitale Helfer sparen Zeit und vermeiden Fehler. Du lernst Tools kennen und baust kleine, nützliche Routinen auf.",
+          "topics":["CRM/Office","Prozessdigitalisierung","Automatisierung"]
+        },
+        {
+          "title":"Karriereplanung & Bildung (DEKRA/IHK)",
+          "ue":16,
+          "description":"Du erfährst, wie du dich sichtbar machst: mit Portfolio, Lebenslauf und passenden Abschlüssen. So planst du deinen nächsten Schritt.",
+          "topics":["Portfolio","Lebenslauf","Anschreiben","Zertifikate"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Makler Basis nach §34c GewO (ohne IHK-Prüfung)",
+      "days": 60,
+      "ue": 480,
+      "sections": [
+        {
+          "title":"Vertiefung rechtlicher Grundlagen",
+          "ue":16,
+          "description":"Du wiederholst die wichtigsten Regeln für Makler und übst typische Fälle. So handelst du sicher und transparent.",
+          "topics":["§34c GewO","Maklerrecht","GWG/KYC","DSGVO","Verbraucherschutz","Ethik"]
+        },
+        {
+          "title":"Standort & Marktaufbau",
+          "ue":8,
+          "description":"Du verstehst, wie Lage und Region Preise und Nachfrage beeinflussen. Das hilft dir, Chancen zu erkennen.",
+          "topics":["Regionale Unterschiede","Nachfrage","Standortfaktoren"]
+        },
+        {
+          "title":"Marktanalyse & digitale Tools",
+          "ue":8,
+          "description":"Mit einfachen Werkzeugen bewertest du Angebot und Nachfrage. Du lernst, Kennzahlen richtig zu lesen.",
+          "topics":["Tools","Preisspiegel","Trendbeobachtung"]
+        },
+        {
+          "title":"Immobilienarten & Besonderheiten",
+          "ue":16,
+          "description":"Du lernst die Unterschiede zwischen Wohn-, Gewerbe- und Spezialimmobilien. So wählst du die passende Strategie.",
+          "topics":["Wohnen","Gewerbe","Spezial","Neubau","Luxus","Ferien","Grundstücke","Off-Market","International"]
+        },
+        {
+          "title":"Kundenakquise (klassisch)",
+          "ue":8,
+          "description":"Du nutzt Netzwerke und Empfehlungen richtig. Ziel ist ein ehrlicher, stabiler Kundenstamm.",
+          "topics":["Netzwerke","Empfehlungen"]
+        },
+        {
+          "title":"Kundenakquise (digital)",
+          "ue":8,
+          "description":"Du lernst, online sichtbar zu werden und Leads sauber zu managen. Das steigert deine Chancen auf passende Anfragen.",
+          "topics":["Social Media","Leads","Landingpages"]
+        },
+        {
+          "title":"Maklerverträge & Vertragstypen",
+          "ue":8,
+          "description":"Du kennst Aufbau und Besonderheiten wichtiger Verträge. So vermeidest du Streit und Missverständnisse.",
+          "topics":["Allein-/einfach","Widerruf","Besonderheiten"]
+        },
+        {
+          "title":"GWG/KYC & Verantwortung",
+          "ue":8,
+          "description":"Du übst, Identitäten zu prüfen und Vorgänge zu dokumentieren. Das schützt dich und deine Kunden.",
+          "topics":["Identprüfung","Dokumentation","Aufbewahrung"]
+        },
+        {
+          "title":"Bewertung: Grundlagen & Verfahren",
+          "ue":16,
+          "description":"Du lernst Vergleichs-, Ertrags- und Sachwertverfahren kennen – mit Mini-Rechenbeispielen. So schätzt du Werte nachvollziehbar.",
+          "topics":["Vergleich","Ertrag","Sachwert","Praxisbeispiel"]
+        },
+        {
+          "title":"Unterlagenbeschaffung & Besonderheiten",
+          "ue":48,
+          "description":"Du weißt, welche Dokumente nötig sind und wo man sie bekommt. Besonderheiten wie Denkmalschutz erkennst du früh.",
+          "topics":["Grundbuch","Teilungserklärung","ETV","Energieausweis","Wirtschaftsplan/Abrechnung","Denkmal/Milieuschutz/Sanierung"]
+        },
+        {
+          "title":"Objekt-/Unterlagenanalyse (Praxis)",
+          "ue":16,
+          "description":"Anhand eines Beispiels prüfst du Unterlagen strukturiert. Das macht deine Aussagen sicher und verständlich.",
+          "topics":["Checklisten","Risikohinweise"]
+        },
+        {
+          "title":"Objektvorbereitung & Home Staging",
+          "ue":16,
+          "description":"Du lernst, ein Objekt ansprechend und ehrlich zu präsentieren. Kleine Verbesserungen können große Wirkung haben.",
+          "topics":["Schwachstellenanalyse","Aufwertung","Staging digital/real"]
+        },
+        {
+          "title":"Zielgruppen & Kampagnen",
+          "ue":16,
+          "description":"Du baust einfache Kampagnen mit klarer Botschaft. So erreichst du die richtigen Menschen.",
+          "topics":["Strategie","Ansprache","Werbemittel"]
+        },
+        {
+          "title":"Exposé – Struktur, Design, Inhalt",
+          "ue":16,
+          "description":"Du erkennst, was ein gutes Exposé ausmacht – Text, Bild und Zahlen. So führst du Interessenten klar zur Entscheidung.",
+          "topics":["Fotos/Video","360°-Tour pro/contra","Beispielanalyse"]
+        },
+        {
+          "title":"Exposé erstellen (Praxis)",
+          "ue":8,
+          "description":"Aus echten Daten baust du ein Exposé Schritt für Schritt. Du arbeitest mit Vorlagen und überprüfst die Qualität.",
+          "topics":["Daten → Exposé","Qualitäts-Check"]
+        },
+        {
+          "title":"Inserate – Plattformen & Optimierung",
+          "ue":16,
+          "description":"Du wählst die passenden Portale und optimierst die Anzeige. Ziel ist Sichtbarkeit ohne falsche Versprechen.",
+          "topics":["Portalauswahl","Texte","Bilder"]
+        },
+        {
+          "title":"Inserat erstellen (Praxis)",
+          "ue":8,
+          "description":"Du übst, ein Inserat sauber online zu stellen. Danach wertest du erste Reaktionen aus.",
+          "topics":["Daten → Inserat","Monitoring"]
+        },
+        {
+          "title":"Digitale Tools (CRM, Bewertung, DSGVO)",
+          "ue":16,
+          "description":"Du richtest einfache Workflows ein und dokumentierst datenschutzkonform. So bleibt dein Prozess sauber.",
+          "topics":["CRM","Bewertungstools","DSGVO"]
+        },
+        {
+          "title":"Besichtigungen & Einwandbehandlung",
+          "ue":16,
+          "description":"Du planst und führst Besichtigungen sicher durch. Einwände behandelst du ruhig und lösungsorientiert.",
+          "topics":["Ablauf","Checklisten","Einwände"]
+        },
+        {
+          "title":"Kapitalanlage & Analyse",
+          "ue":64,
+          "description":"Du ordnest Investments mit einfachen Kennzahlen ein und verstehst Grundzüge von Steuern/Förderungen. So berätst du fair.",
+          "topics":["Rendite/Faktor/EK-Rendite","Steuern (allg.)","Kaufen vs. Mieten"]
+        },
+        {
+          "title":"Besondere Immobilien",
+          "ue":32,
+          "description":"Du lernst, worauf bei Neubau, Luxus, Off-Market und international zu achten ist. Das schützt vor teuren Fehlern.",
+          "topics":["Neubau (MaBV)","Luxus","Off-Market","International"]
+        },
+        {
+          "title":"Karriere, CRM & Risiken",
+          "ue":48,
+          "description":"Du arbeitest an deinem Kundenbindungs-System und übst Konfliktmanagement. Trends wie KI/Green schaust du dir praxisnah an.",
+          "topics":["Konfliktmanagement","CRM","Trends (KI/Green)"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Immobilienverwaltung und Facility Management",
+      "days": 80,
+      "ue": 640,
+      "sections": [
+        {
+          "title":"Einführung in die Verwaltung",
+          "ue":16,
+          "description":"Du lernst WEG-, Miet- und Gewerbeverwaltung sowie Sonderverwaltungen kennen. So weißt du, welche Aufgaben im Alltag auf dich warten.",
+          "topics":["WEG","Miet","Gewerbe","Sonderverwaltung"]
+        },
+        {
+          "title":"Markt- und Branchenanalyse",
+          "ue":16,
+          "description":"Du verstehst die Rolle der Verwaltung im Markt und erkennst aktuelle Herausforderungen. Das hilft dir bei Entscheidungen.",
+          "topics":["Rolle Verwaltung","Trends","Herausforderungen"]
+        },
+        {
+          "title":"Rechtsgrundlagen der Verwaltung (Überblick)",
+          "ue":16,
+          "description":"Du ordnest BGB, WEG, Miet- und Gewerbemietrecht und Datenschutz richtig ein. Damit handelst du sicher.",
+          "topics":["BGB","WEG","Mietrecht","Gewerbemietrecht","Datenschutz"]
+        },
+        {
+          "title":"WEG-Grundlagen (Recht)",
+          "ue":32,
+          "description":"Du verstehst Grundbuch, Sondereigentum, Teilungserklärung und Verwalterrolle. So führst du WEGs sachlich korrekt.",
+          "topics":["Grundbuch","SE/GE","Teilungserklärung","Gemeinschaftsordnung","Verwalterstellung/Haftung","Beirat"]
+        },
+        {
+          "title":"Technische & kaufmännische Grundlagen",
+          "ue":16,
+          "description":"Du übernimmst Objekte strukturiert, beachtest Verkehrssicherung und steuerst Dienstleister. Das schafft Ordnung und Sicherheit.",
+          "topics":["Objektübernahme","Verkehrssicherung","Leistungsvergleich","Steuerung","Akquise/Marketing"]
+        },
+        {
+          "title":"EDV & Geschäftsprozesse",
+          "ue":16,
+          "description":"Du nutzt HV-Software sinnvoll und optimierst Abläufe. Tipps erleichtern den Tagesbetrieb.",
+          "topics":["HV-Software","Organisation","Prozessoptimierung","Tagesgeschäft"]
+        },
+        {
+          "title":"Mietrecht (Wohnraum) – Grundlagen",
+          "ue":48,
+          "description":"Du lernst die wichtigsten Regeln rund um Mietverträge, Nebenkosten, Erhöhungen und Kündigungen – mit Praxisbezug.",
+          "topics":["Mietvertrag","Rechte/Pflichten","Nebenkosten","Mieterhöhung","Mietminderung","Kündigung","Modernisierung","Sonderfälle","Mahnwesen"]
+        },
+        {
+          "title":"Praxissimulation: Mietminderung",
+          "ue":16,
+          "description":"Du prüfst Ansprüche, berechnest die Minderung und schreibst ein klares Schreiben. Das gibt Sicherheit in echten Fällen.",
+          "topics":["Anspruchsprüfung","Berechnung","Schreiben","Simulation"]
+        },
+        {
+          "title":"Praxissimulation: Mietvertragskündigung",
+          "ue":16,
+          "description":"Du übst ordentliche/außerordentliche Kündigungen mit Fristen und Schutzregeln. So vermeidest du Formfehler.",
+          "topics":["Form/Frist","Sonderrechte","Kündigungsschutz","Abwicklung"]
+        },
+        {
+          "title":"Gewerbevermietung (Praxis)",
+          "ue":16,
+          "description":"Von Zielgruppe bis Übergabe: du begleitest den Prozess Schritt für Schritt. Besonderheiten des Gewerbemietvertrags werden klar.",
+          "topics":["Zielgruppe/Mietpreis","Exposé","Inserat/Netzwerke","Besichtigung","Bonitätsprüfung/Businessplan","Gewerbemietvertrag","Übergabe/Einweisung","Konfliktprävention"]
+        },
+        {
+          "title":"Übergabe/Übernahme & Protokolle",
+          "ue":16,
+          "description":"Du dokumentierst sauber, damit später nichts streitig ist. Checklisten helfen dir dabei.",
+          "topics":["Ablauf","Dokumentation"]
+        },
+        {
+          "title":"Kommunikation Eigentümer/Mieter",
+          "ue":16,
+          "description":"Du trainierst klare, respektvolle Kommunikation. Das senkt Konflikte und spart Zeit.",
+          "topics":["Effiziente Kommunikation","Nachhaltige Lösungen"]
+        },
+        {
+          "title":"Ethik & Verantwortung",
+          "ue":16,
+          "description":"Du lernst, fair und transparent zu handeln – wichtig für Vertrauen. So stärkst du deine Rolle als Verwalter.",
+          "topics":[]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Immobilienbewertung und Gutachtenerstellung",
+      "days": 20,
+      "ue": 160,
+      "sections": [
+        {"title":"Grundlagen der Immobilienbewertung","ue":16,"description":"Du verstehst Ziel, Nutzen und Grenzen von Bewertungen. So lieferst du nachvollziehbare Ergebnisse.","topics":[]},
+        {"title":"Marktanalyse & Standortbewertung","ue":16,"description":"Du prüfst Lagefaktoren und Datenquellen, die den Wert beeinflussen.","topics":[]},
+        {"title":"Wertermittlungsverfahren – Überblick","ue":16,"description":"Du ordnest Vergleichs-, Ertrags- und Sachwert korrekt ein und weißt, wann welches Verfahren passt.","topics":[]},
+        {"title":"Vergleichswertverfahren (Detail)","ue":16,"description":"Du nutzt Vergleichsdaten sinnvoll und achtest auf Qualität.","topics":[]},
+        {"title":"Ertragswertverfahren (Detail)","ue":16,"description":"Du rechnest Erträge verständlich vor und dokumentierst Annahmen.","topics":[]},
+        {"title":"Sachwertverfahren (Detail)","ue":16,"description":"Du baust den Sachwert Schritt für Schritt auf und prüfst Plausibilität.","topics":[]},
+        {"title":"Gutachtenerstellung – Aufbau & Anforderungen","ue":16,"description":"Du strukturierst ein Gutachten klar und prüfst Quellen.","topics":[]},
+        {"title":"Spezialfälle der Bewertung","ue":16,"description":"Du erkennst Sonderfälle wie Denkmalschutz oder Erbbaurecht.","topics":[]},
+        {"title":"Digitale Tools & Datenquellen","ue":16,"description":"Du nutzt moderne Tools effizient und achtest auf Datenqualität.","topics":[]},
+        {"title":"Abschlussprojekt","ue":16,"description":"Du erstellst ein Mini-Gutachten als Übung und präsentierst es.","topics":[]}
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Immobiliendarlehensvermittlung (+ Vorbereitung §34i GewO)",
+      "days": 40,
+      "ue": 320,
+      "sections": [
+        {"title":"Einführung, Recht & Ethik","ue":16,"description":"Du verstehst Rolle, Pflichten und Verbraucherschutz. So berätst du fair.","topics":["typische Anfragen","Rollen","Pflichten"]},
+        {"title":"Kundenberatung & Gesprächsführung","ue":16,"description":"Du übst strukturierte Gespräche – auch in schwierigen Situationen.","topics":["Ablauf","Rollenspiele"]},
+        {"title":"Verbraucherschutz & Pflichten des Vermittlers","ue":16,"description":"Du kennst Informations- und Dokumentationspflichten.","topics":[]},
+        {"title":"Recht rund um den Erwerb","ue":16,"description":"Du ordnest Grundbuch, Kaufvertrag und Zeitabläufe ein.","topics":["Grundbuch","Kaufvertrag","Zeitschiene"]},
+        {"title":"Markt & wirtschaftliche Grundlagen","ue":16,"description":"Du verstehst Zinsentwicklung, Zyklen und Preisbildung.","topics":["Zinsentwicklung","Konjunkturzyklen","Kreditgeber","Preisbildung"]},
+        {"title":"Finanzierungsanlässe & Kreditprodukte","ue":36,"description":"Du lernst wichtige Produkte kennen und einzuordnen.","topics":["Eigenheim/Kapitalanlage","Bau/Modernisierung","Anschlussfinanzierung","Zwischenfinanzierung","Annuität","Tilgung","Endfällig","Forward","Bausparen","Cap","Policen"]},
+        {"title":"Konditionen & Förderungen","ue":8,"description":"Du vergleichst Konditionen und findest passende Förderungen.","topics":["effektiver/nominaler Zins","Zinsbindung","Sondertilgung","KfW/Region"]},
+        {"title":"Praxis: Fallanalysen & Finanzierungsplan","ue":8,"description":"Du erstellst einfache Finanzierungspläne und vergleichst Optionen.","topics":["Vergleich","Simulation","Tilgungsplan"]},
+        {"title":"Kreditwürdigkeitsprüfung & Sicherheiten","ue":16,"description":"Du prüfst Haushaltsrechnungen, Scorings und Sicherheiten.","topics":["Haushaltsrechnung","Schufa/Scoring","Grundpfandrechte","Bürgschaften","Sicherheitenbewertung"]},
+        {"title":"Prüfungsvorbereitung & Simulation","ue":160,"description":"Du wiederholst Inhalte und übst mit Probeklausuren – sichere Vorbereitung auf §34i.","topics":["Wiederholung","Vertiefung","Probeklausuren"]}
+      ]
+    }
+  ]
+}
